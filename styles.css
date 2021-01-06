@@ -1,0 +1,49 @@
+body {
+    background: url("https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+
+h1 {
+    color: white;
+    font-family: 'Hanalei Fill', cursive;
+}
+
+p {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mainimage {
+    display: flex;
+    justify-content: center;
+}
+
+.dates {
+    color: white;
+}
+h3{
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Don't edit this*/
+img {
+    width: 150px;
+    display: block;
+}
